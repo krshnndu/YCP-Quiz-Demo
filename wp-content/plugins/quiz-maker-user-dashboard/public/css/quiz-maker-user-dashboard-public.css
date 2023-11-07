@@ -1,0 +1,149 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .ays-quiz-advanced-user-dashboard-container{
+    width: 100%;
+    margin: auto;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #8080807d;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div > a{
+    margin-right: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    outline: none;
+    font-weight: 600;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div{
+    padding: 10px;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div > a:hover{
+    color: #302e2e7d;
+}
+
+.ays-quiz-advanced-user-dashboard-content > div{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.ays-quiz-advanced-user-dashboard-content {
+    position: relative;
+    margin-top: 4px;
+    border: 1px solid #8080807d;
+}
+
+.ays-quiz-advanced-user-dashboard-content > div.ays-quiz-user-dashboard-all-results > div.dataTables_wrapper,.ays-quiz-advanced-user-dashboard-content > div.ays-quiz-user-dashboard-result-by-quiz > div.dataTables_wrapper{
+    overflow-x: scroll;
+}
+
+.ays-quiz-user-dashboard-quizzes-div{
+    
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+} 
+
+.ays-quiz-user-dashboard-quizzes-best-score,
+.ays-quiz-user-dashboard-quizzes-user-progress{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 5px;
+    white-space: nowrap;
+}
+
+.ays-quiz-user-dashboard-details{
+    background: #3a3a3a;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;    
+    padding: 5px 10px;
+}
+
+.ays-quiz-user-dashboard-quizzes-best-score select.ays-quiz-user-dashboard-best-score-quizzes, .ays-quiz-user-dashboard-quizzes-user-progress select.ays-quiz-user-dashboard-user-progress-quizzes{
+    margin: 0 10px;
+}
+
+.ays-quiz-user-dashboard-tab-content{
+    animation: fadeEffect 1s;
+    display: none;
+}
+
+.ays-quiz-user-dashboard-tab-content-active{
+    display: block;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div > a.nav-tab-active{
+    color: #302e2e7d;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div{
+    padding: 13px;
+    max-width: 100%;
+}
+
+.ays-quiz-advanced-user-dashboard-tabs > div.nav-tab-wrapper > div:not(:last-child){
+    border-right: 1px solid #8080807d;
+}
+
+.ays-quiz-user-dashboard-preloader{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    display: none;
+    z-index: 1;
+    right: 0;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    display:none;
+}
+
+.ays-quiz-user-dashboard-results-by-quiz-tables div.ays-modal-body table#ays-results-table tr td:first-child .ays-quiz-user-dasboard-export-pdf,
+.ays-quiz-user-dashboard-check,
+.ays-quiz-user-dashboard-user-progress-check{
+    background: #007cba;
+    cursor: pointer;
+    padding: 7px 15px;
+    border: none;
+    outline: none;
+    color: #ffffff !important;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+/* .ays-quiz-user-dashboard-results-by-quiz-tables .ays-modal-content > .ays-quiz-user-dashboard-preloader{
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+    display: block;
+} */
+
+@media only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+    .ays-quiz-user-dashboard-quizzes-best-score select.ays-quiz-user-dashboard-best-score-quizzes, .ays-quiz-user-dashboard-quizzes-user-progress select.ays-quiz-user-dashboard-user-progress-quizzes,
+    .ays-quiz-user-dashboard-quizzes-best-score select.ays-quiz-user-dashboard-mode, .ays-quiz-user-dashboard-quizzes-user-progress select.ays-quiz-user-dashboard-user-progress-mode,
+    .ays-quiz-user-dashboard-quizzes-div > select.ays-quiz-user-dashboard-quizzes{
+        width: 45%;
+    }    
+}
+
+.ays-quiz-user-dashboard-results-by-quiz-tables .ays-modal-body {
+    padding: 2px 16px 20px;
+    overflow-x: auto;
+    max-width: 100%;
+    width: unset;
+}

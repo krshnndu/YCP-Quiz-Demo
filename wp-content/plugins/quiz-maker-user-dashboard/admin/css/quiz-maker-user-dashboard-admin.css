@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .ays-quiz-maker-user-dashbord-main {
+    margin: auto;
+    width: 60%;
+}
+
+.ays-quiz-maker-user-dashboard-head {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ays-quiz-maker-user-dashboard-head p {
+    font-size: 35px;
+}
+
+.ays-quiz-maker-user-dasboard-shortcode-body {
+    margin: auto;
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+    background: #80808012;
+    box-shadow: 0 0 2px;
+    border-radius: 2px;
+}
+
+.ays-quiz-maker-user-dasboard-shortcode-input input {
+    width: 48%;
+    margin: auto;
+}

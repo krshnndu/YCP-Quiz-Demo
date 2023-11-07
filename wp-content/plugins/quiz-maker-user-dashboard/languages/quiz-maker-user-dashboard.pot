@@ -1,0 +1,396 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quiz Maker\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2018-07-13 11:50+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-quiz-maker-user-dashboard-admin.php:155
+msgid "Advanced User Dashboard Settings"
+msgstr ""
+
+#: ../admin/class-quiz-maker-user-dashboard-admin.php:167
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/class-quiz-maker-user-dashboard-admin.php:183
+msgid "Copy the shortcode and insert it into any post. It will show all the activities of the user (Activity per Day, User Results, The Results by the quiz, Best Score, User Progress)."
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:119
+msgid "Can't load resource."
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:120
+msgid "Maybe the data has been deleted."
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:122
+#: ../public/class-quiz-maker-user-dashboard-public.php:149
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:66
+msgid "No data available in table"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:123
+#: ../public/class-quiz-maker-user-dashboard-public.php:150
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:67
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:124
+#: ../public/class-quiz-maker-user-dashboard-public.php:151
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:68
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:125
+#: ../public/class-quiz-maker-user-dashboard-public.php:152
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:69
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:128
+#: ../public/class-quiz-maker-user-dashboard-public.php:155
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:72
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:129
+#: ../public/class-quiz-maker-user-dashboard-public.php:156
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:73
+msgid "Loading..."
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:130
+#: ../public/class-quiz-maker-user-dashboard-public.php:157
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:74
+msgid "Processing..."
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:131
+#: ../public/class-quiz-maker-user-dashboard-public.php:158
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:75
+msgid "Search:"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:133
+#: ../public/class-quiz-maker-user-dashboard-public.php:160
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:77
+msgid "No matching records found"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:134
+#: ../public/class-quiz-maker-user-dashboard-public.php:161
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:78
+msgid "First"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:135
+#: ../public/class-quiz-maker-user-dashboard-public.php:162
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:79
+msgid "Last"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:136
+#: ../public/class-quiz-maker-user-dashboard-public.php:163
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:80
+msgid "Next"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:137
+#: ../public/class-quiz-maker-user-dashboard-public.php:164
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:81
+msgid "Previous"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:138
+#: ../public/class-quiz-maker-user-dashboard-public.php:165
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:82
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:139
+#: ../public/class-quiz-maker-user-dashboard-public.php:166
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:83
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:140
+msgid "Attempt"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:141
+msgid "User progress"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:142
+msgid "Progression chart"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:143
+msgid "All"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:465
+msgid "Activity Per Day"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:470
+msgid "Results"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:475
+msgid "Results by Quiz"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:480
+msgid "Best Score"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:485
+msgid "Progress"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:510
+#: ../public/class-quiz-maker-user-dashboard-public.php:562
+#: ../public/class-quiz-maker-user-dashboard-public.php:614
+msgid "Select quiz"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:549
+#: ../public/class-quiz-maker-user-dashboard-public.php:601
+msgid "Select Mode"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:552
+msgid "Percentage"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:555
+#: ../public/class-quiz-maker-user-dashboard-public.php:607
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:135
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:170
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:212
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:811
+#: ../public/partials/class-quiz-maker-user-advanced-user-progress.php:149
+msgid "Points"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:583
+#: ../public/class-quiz-maker-user-dashboard-public.php:635
+msgid "Check"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:604
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:166
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:132
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:158
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:200
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:454
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:701
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:808
+#: ../public/partials/class-quiz-maker-user-advanced-user-progress.php:153
+msgid "Score"
+msgstr ""
+
+#: ../public/class-quiz-maker-user-dashboard-public.php:668
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:117
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:112
+msgid "You must log in to see your results."
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-activity-per-day.php:105
+msgid "Count"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-activity-per-day.php:106
+msgid "Date"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-best-score.php:135
+#, php-format
+msgid "Your Best  Score is %%best_points%%"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-best-score.php:138
+msgid "There are no results yet"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-best-score.php:149
+msgid "point"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-best-score.php:151
+msgid "points"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-best-score.php:157
+msgid "Your Best  Score is"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:125
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:174
+msgid "There are no results yet."
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:146
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:142
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:184
+msgid "User Name"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:150
+msgid "Quiz Name"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:154
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:146
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:188
+msgid "Start Date"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:158
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:150
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:192
+msgid "End Date"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:162
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:131
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:154
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:196
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:450
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:700
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:807
+msgid "Duration"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:170
+msgid "Status"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:217
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:260
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:416
+msgid "second"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:255
+msgid "Passed"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-results.php:260
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:586
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:756
+msgid "Failed"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:128
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:804
+msgid "User name"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:129
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:446
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:699
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:805
+msgid "Start date"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:130
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:806
+msgid "End date"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:133
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:162
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:204
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:809
+msgid "Certificate"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:134
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:166
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:208
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:810
+msgid "Details"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:271
+msgid "Download"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:424
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:690
+msgid "Quiz Information"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:426
+msgid "Export to"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:428
+msgid "PDF"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:435
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:441
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:702
+msgid "Rate"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:436
+msgid "Rate Score"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:437
+msgid "Review"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:460
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:731
+msgid "Questions"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:511
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:602
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:732
+msgid "Question"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:534
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:546
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:733
+msgid "Correct answer"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:566
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:603
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:734
+msgid "User answered"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:577
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:756
+msgid "Succeed"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:598
+msgid "Answer point"
+msgstr ""
+
+#: ../public/partials/class-quiz-maker-user-advanced-user-page.php:610
+msgid "User explanation for this question"
+msgstr ""
